@@ -78,6 +78,7 @@
 .lecturer-profile .eyebrow{font-size:11px;letter-spacing:.2em;color:#8de0ff;margin-bottom:8px}
 .lecturer-profile h3{font-size:40px;letter-spacing:.04em;text-shadow:0 2px 14px #0009}
 .lecturer-profile h3 small{display:block;font-size:16px;letter-spacing:.06em;margin-top:8px;color:#b9d6e1}
+.course-gains{margin-top:28px;padding:28px 32px;border:1px solid var(--border);border-radius:var(--radius);background:var(--section)}.course-gains h2{font-size:22px;margin-bottom:18px}.course-gains ol{list-style:none;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 28px;margin:0;padding:0}.course-gains li{display:flex;align-items:baseline;gap:12px;font-size:16px;line-height:1.7}.course-gains li span{color:var(--accent);font-family:monospace;font-size:13px;flex-shrink:0}@media(max-width:640px){.course-gains{padding:24px}.course-gains ol{grid-template-columns:1fr;gap:12px}.course-gains h2{font-size:21px}.course-gains li{font-size:15px}}
 .lecturer-roles{font-size:15px;line-height:1.9;color:#8de0ff;margin:16px 0 0}
 .lecturer-intro{font-size:15px;line-height:1.9;color:var(--text);margin-top:20px;padding-top:18px;border-top:1px solid #85dfff40;text-shadow:0 1px 6px #0008}
 .lecturer-copy{display:flex;flex-direction:column;justify-content:center;gap:28px;padding:32px;background:radial-gradient(ellipse at 50% 45%,#0b425433,transparent 65%),var(--section)}
