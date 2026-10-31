@@ -1,0 +1,9 @@
+private-work/
+test-results/
+.DS_Store
+*.zip
+draft_*_folder/
+frontend/survey-preview.*
+frontend/survey-data.js
+frontend/preview-matrix.html
+frontend/preview-checks.js
